@@ -100,3 +100,6 @@ if __name__ == "__main__":
 # Prinzip 2 überrascht mich, weil es zeigt, dass es immer eine gewisse Unsicherheit in der 
 # Softwareentwicklung gibt. Es ist eine Herausforderung zu akzeptieren, dass man nicht alle Fehler finden kann, 
 # aber es betont die Bedeutung von Priorisierung und Risikomanagement im Testprozess.
+
+
+# das ist ein Test für den Pull Request – bitte nicht löschen
